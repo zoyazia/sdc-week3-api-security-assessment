@@ -2,7 +2,7 @@
 
 **SDC Internship Week 3 (Professional Advanced Build)**
 **Prepared by:** Member 3 (Zoya Zia)
-**Target:** VAmPI (Vulnerable API), running locally in Docker — http://localhost:5000
+**Target:** VAmPI (Vulnerable API), running locally in Docker http://localhost:5000
 **Primary tool:** OWASP ZAP 2.17.0, plus manual authentication/authorization testing
 
 ## Overview
