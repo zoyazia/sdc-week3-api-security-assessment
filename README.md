@@ -1,6 +1,6 @@
-# API Security Assessment (Authorized Lab) — Regional Elderly Care Facility
+# API Security Assessment (Authorized Lab) Regional Elderly Care Facility
 
-**SDC Internship — Week 3 (Professional Advanced Build)**
+**SDC Internship Week 3 (Professional Advanced Build)**
 **Prepared by:** Member 3 (Zoya Zia)
 **Target:** VAmPI (Vulnerable API), running locally in Docker — http://localhost:5000
 **Primary tool:** OWASP ZAP 2.17.0, plus manual authentication/authorization testing
@@ -11,8 +11,8 @@ This repository contains an authorized security assessment of a lab API modeled 
 
 ## Contents
 
-- **Report** — full written report (scope, methodology, findings, recommendations)
-- **/screenshots** — evidence for each finding (setup, manual tests, ZAP scan and alerts)
+- **Report** : full written report (scope, methodology, findings, recommendations)
+- **/screenshots** : evidence for each finding (setup, manual tests, ZAP scan and alerts)
 
 ## Summary of findings
 
@@ -29,9 +29,9 @@ Full details, evidence, and recommendations for each finding are in the report.
 
 ## Tools used
 
-- **OWASP ZAP** — active/passive scanning, OpenAPI-driven import
-- **Docker** — running the VAmPI lab target
-- **Swagger UI / PowerShell** — manual authentication and authorization testing
+- **OWASP ZAP** : active/passive scanning, OpenAPI-driven import
+- **Docker** : running the VAmPI lab target
+- **Swagger UI / PowerShell** : manual authentication and authorization testing
 
 ## Key takeaway
 
@@ -39,4 +39,4 @@ OWASP ZAP and manual testing found different categories of issues. ZAP identifie
 
 ## AI Assistance Disclosure
 
-Claude (Anthropic) was used as a learning aid throughout this task — to explain authentication/authorization concepts, guide the Docker and OWASP ZAP setup, help interpret ZAP alerts, and assist in formatting the report. All findings were independently verified manually as documented in the report.
+Claude (Anthropic) was used as a learning aid throughout this task : to explain authentication/authorization concepts, guide the Docker and OWASP ZAP setup, help interpret ZAP alerts, and assist in formatting the report. All findings were independently verified manually as documented in the report.
